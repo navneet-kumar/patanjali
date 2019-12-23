@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  display: -webkit-flex;
+  flex-flow: wrap;
+  -webkit-flex-flow: wrap;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  -webkit-align-items: center;
+}
+
+.brandLogo {
+  display: flex;
+  display: -webkit-flex;
+  flex-flow: wrap;
+  -webkit-flex-flow: wrap;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  align-items: center;
+  -webkit-align-items: center;
+}
+
+.header-text {
+  fontsize: "50px";
+  color: "#991b31";
+}
